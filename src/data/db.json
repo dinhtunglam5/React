@@ -1,0 +1,1121 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "title": "iPhone 15 Pro Max",
+      "image": "iphone-15-pro-max.jpg",
+      "category": "dien-thoai",
+      "price": 1299.99,
+      "popularity": 5,
+      "stock": 10,
+      "storage": [
+        {
+          "name": "256GB",
+          "price_diff": 0
+        },
+        {
+          "name": "512GB",
+          "price_diff": 100
+        },
+        {
+          "name": "1TB",
+          "price_diff": 300
+        }
+      ],
+      "colors": [
+        "Titan Tự Nhiên",
+        "Titan Đen",
+        "Titan Trắng"
+      ],
+      "description": "Chip A17 Bionic mạnh mẽ, hệ thống camera Pro Max, và khung Titan bền bỉ."
+    },
+    {
+      "id": "2",
+      "title": "MacBook Pro M3 14 inch",
+      "image": "macbook-pro-m3.jpg",
+      "category": "laptop",
+      "price": 1999,
+      "popularity": 4,
+      "stock": 20,
+      "storage": [
+        {
+          "name": "512GB SSD",
+          "price_diff": 0
+        },
+        {
+          "name": "1TB SSD",
+          "price_diff": 200
+        }
+      ],
+      "colors": [
+        "Bạc",
+        "Xám Không Gian"
+      ],
+      "description": "Màn hình Liquid Retina XDR tuyệt đẹp, hiệu năng vượt trội với chip M3 Pro."
+    },
+    {
+      "id": "3",
+      "title": "Tai Nghe Sony WH-1000XM5",
+      "image": "sony-wh-1000xm5.jpg",
+      "category": "phu-kien",
+      "price": 349.99,
+      "popularity": 3,
+      "stock": 35,
+      "storage": [
+        {
+          "name": "N/A",
+          "price_diff": 0
+        }
+      ],
+      "colors": [
+        "Đen",
+        "Bạc"
+      ],
+      "description": "Khử tiếng ồn hàng đầu trong ngành, chất lượng âm thanh vượt trội."
+    },
+    {
+      "id": "4",
+      "title": "Samsung Galaxy S24 Ultra",
+      "image": "samsung-s24-ultra.jpg",
+      "category": "dien-thoai",
+      "price": 1199.99,
+      "popularity": 5,
+      "stock": 15,
+      "storage": [
+        {
+          "name": "256GB",
+          "price_diff": 0
+        },
+        {
+          "name": "512GB",
+          "price_diff": 80
+        },
+        {
+          "name": "1TB",
+          "price_diff": 250
+        }
+      ],
+      "colors": [
+        "Đen",
+        "Xám",
+        "Tím"
+      ],
+      "description": "Sức mạnh AI đột phá, camera 200MP và bút S Pen tích hợp."
+    },
+    {
+      "id": "5",
+      "title": "Dell XPS 15 (2024)",
+      "image": "dell-xps-15.jpg",
+      "category": "laptop",
+      "price": 1850,
+      "popularity": 4,
+      "stock": 12,
+      "storage": [
+        {
+          "name": "1TB SSD",
+          "price_diff": 0
+        },
+        {
+          "name": "2TB SSD",
+          "price_diff": 350
+        }
+      ],
+      "colors": [
+        "Bạc",
+        "Đen"
+      ],
+      "description": "Thiết kế mỏng nhẹ, màn hình OLED sắc nét, hiệu năng làm việc chuyên nghiệp."
+    },
+    {
+      "id": "6",
+      "title": "Loa JBL Flip 6",
+      "image": "jbl-flip-6.jpg",
+      "category": "phu-kien",
+      "price": 129,
+      "popularity": 3,
+      "stock": 50,
+      "storage": [
+        {
+          "name": "N/A",
+          "price_diff": 0
+        }
+      ],
+      "colors": [
+        "Đen",
+        "Xanh",
+        "Đỏ"
+      ],
+      "description": "Loa di động chống nước, âm thanh mạnh mẽ, thời lượng pin dài."
+    },
+    {
+      "id": "7",
+      "title": "Đồng Hồ Apple Watch Series 9",
+      "image": "apple-watch-s9.jpg",
+      "category": "phu-kien",
+      "price": 399,
+      "popularity": 4,
+      "stock": 25,
+      "storage": [
+        {
+          "name": "41mm",
+          "price_diff": 0
+        },
+        {
+          "name": "45mm",
+          "price_diff": 30
+        }
+      ],
+      "colors": [
+        "Đen",
+        "Bạc",
+        "Vàng"
+      ],
+      "description": "Theo dõi sức khỏe toàn diện, tính năng cử chỉ chạm hai lần (Double Tap)."
+    },
+    {
+      "id": "8",
+      "title": "Máy Tính Bảng Samsung Galaxy Tab S9",
+      "image": "galaxy-tab-s9.jpg",
+      "category": "phu-kien",
+      "price": 799,
+      "popularity": 3,
+      "stock": 18,
+      "storage": [
+        {
+          "name": "128GB",
+          "price_diff": 0
+        },
+        {
+          "name": "256GB",
+          "price_diff": 100
+        }
+      ],
+      "colors": [
+        "Xám Than",
+        "Be"
+      ],
+      "description": "Màn hình AMOLED 120Hz, hiệu năng mạnh mẽ cho công việc và giải trí."
+    },
+    {
+      "id": "9",
+      "title": "Google Pixel 8 Pro",
+      "image": "google-pixel-8-pro.jpg",
+      "category": "dien-thoai",
+      "price": 999.99,
+      "popularity": 5,
+      "stock": 15,
+      "storage": [
+        {
+          "name": "128GB",
+          "price_diff": 0
+        },
+        {
+          "name": "256GB",
+          "price_diff": 70
+        }
+      ],
+      "colors": [
+        "Xanh Vịnh",
+        "Đen Obsidian",
+        "Trắng Sứ"
+      ],
+      "description": "Camera AI hàng đầu và chip Google Tensor G3."
+    },
+    {
+      "id": "10",
+      "title": "iPad Air M1",
+      "image": "ipad-air-m1.jpg",
+      "category": "phu-kien",
+      "price": 599,
+      "popularity": 4,
+      "stock": 30,
+      "storage": [
+        {
+          "name": "64GB",
+          "price_diff": 0
+        },
+        {
+          "name": "256GB",
+          "price_diff": 150
+        }
+      ],
+      "colors": [
+        "Xám Không Gian",
+        "Bạc",
+        "Hồng",
+        "Tím"
+      ],
+      "description": "Màn hình Liquid Retina 10.9 inch và chip M1 mạnh mẽ."
+    },
+    {
+      "id": "11",
+      "title": "Bàn Phím Cơ Keychron K2",
+      "image": "keychron-k2.jpg",
+      "category": "phu-kien",
+      "price": 89.99,
+      "popularity": 4,
+      "stock": 40,
+      "storage": [
+        {
+          "name": "N/A",
+          "price_diff": 0
+        }
+      ],
+      "colors": [
+        "Khung Nhôm",
+        "Khung Nhựa"
+      ],
+      "description": "Bàn phím cơ không dây nhỏ gọn, phù hợp với Mac và Windows."
+    },
+    {
+      "id": "12",
+      "title": "Microsoft Surface Laptop 5",
+      "image": "surface-laptop-5.jpg",
+      "category": "laptop",
+      "price": 1299,
+      "popularity": 3,
+      "stock": 18,
+      "storage": [
+        {
+          "name": "256GB SSD",
+          "price_diff": 0
+        },
+        {
+          "name": "512GB SSD",
+          "price_diff": 250
+        }
+      ],
+      "colors": [
+        "Platinum",
+        "Matte Black"
+      ],
+      "description": "Thiết kế mỏng nhẹ, màn hình cảm ứng PixelSense."
+    },
+    {
+      "id": "13",
+      "title": "TV Samsung The Frame QLED 55 inch",
+      "image": "samsung-the-frame.jpg",
+      "category": "phu-kien",
+      "price": 1499,
+      "popularity": 4,
+      "stock": 10,
+      "storage": [
+        {
+          "name": "55 inch",
+          "price_diff": 0
+        },
+        {
+          "name": "65 inch",
+          "price_diff": 500
+        }
+      ],
+      "colors": [
+        "Đen",
+        "Be",
+        "Trắng"
+      ],
+      "description": "TV QLED biến thành tác phẩm nghệ thuật khi không sử dụng."
+    },
+    {
+      "id": "14",
+      "title": "Máy Chơi Game Nintendo Switch OLED",
+      "image": "nintendo-switch-oled.jpg",
+      "category": "phu-kien",
+      "price": 349,
+      "popularity": 5,
+      "stock": 25,
+      "storage": [
+        {
+          "name": "N/A",
+          "price_diff": 0
+        }
+      ],
+      "colors": [
+        "Trắng",
+        "Neon"
+      ],
+      "description": "Màn hình OLED rực rỡ và chân đế có thể điều chỉnh."
+    },
+    {
+      "id": "15",
+      "title": "Laptop Gaming ASUS ROG Zephyrus G14",
+      "image": "asus-rog-g14.jpg",
+      "category": "laptop",
+      "price": 1699,
+      "popularity": 5,
+      "stock": 8,
+      "storage": [
+        {
+          "name": "1TB SSD",
+          "price_diff": 0
+        },
+        {
+          "name": "2TB SSD",
+          "price_diff": 400
+        }
+      ],
+      "colors": [
+        "Trắng Ánh Sao",
+        "Xám Eclipse"
+      ],
+      "description": "Laptop gaming mạnh mẽ trong thân hình mỏng nhẹ."
+    },
+    {
+      "id": "16",
+      "title": "Điện Thoại Xiaomi 14 Pro",
+      "image": "xiaomi-14-pro.jpg",
+      "category": "dien-thoai",
+      "price": 899,
+      "popularity": 4,
+      "stock": 22,
+      "storage": [
+        {
+          "name": "256GB",
+          "price_diff": 0
+        },
+        {
+          "name": "512GB",
+          "price_diff": 120
+        }
+      ],
+      "colors": [
+        "Xanh Ngọc",
+        "Đen Bóng",
+        "Bạc"
+      ],
+      "description": "Hệ thống camera Leica và sạc siêu nhanh 120W."
+    },
+    {
+      "id": "17",
+      "title": "Màn Hình Dell UltraSharp 27 inch 4K",
+      "image": "dell-ultrasharp-4k.jpg",
+      "category": "phu-kien",
+      "price": 649,
+      "popularity": 3,
+      "stock": 15,
+      "storage": [
+        {
+          "name": "27 inch",
+          "price_diff": 0
+        },
+        {
+          "name": "32 inch",
+          "price_diff": 250
+        }
+      ],
+      "colors": [
+        "Đen"
+      ],
+      "description": "Màn hình chuyên nghiệp với độ phân giải 4K, màu sắc chính xác."
+    },
+    {
+      "id": "18",
+      "title": "Ổ Cứng Di Động Samsung T7 1TB",
+      "image": "samsung-t7.jpg",
+      "category": "phu-kien",
+      "price": 109.99,
+      "popularity": 4,
+      "stock": 60,
+      "storage": [
+        {
+          "name": "500GB",
+          "price_diff": -30
+        },
+        {
+          "name": "1TB",
+          "price_diff": 0
+        },
+        {
+          "name": "2TB",
+          "price_diff": 80
+        }
+      ],
+      "colors": [
+        "Đỏ",
+        "Xanh",
+        "Xám Titan"
+      ],
+      "description": "Ổ SSD di động tốc độ cao, bền bỉ và nhỏ gọn."
+    },
+    {
+      "id": "19",
+      "title": "Điện Thoại OnePlus 12",
+      "image": "oneplus-12.jpg",
+      "category": "dien-thoai",
+      "price": 799,
+      "popularity": 4,
+      "stock": 17,
+      "storage": [
+        {
+          "name": "256GB",
+          "price_diff": 0
+        },
+        {
+          "name": "512GB",
+          "price_diff": 100
+        }
+      ],
+      "colors": [
+        "Xanh Lục Bảo",
+        "Đen Silky"
+      ],
+      "description": "Hiệu năng mạnh mẽ với Snapdragon 8 Gen 3 và sạc không dây 50W."
+    },
+    {
+      "id": "20",
+      "title": "Apple MacBook Air M2 13 inch",
+      "image": "macbook-air-m2.jpg",
+      "category": "laptop",
+      "price": 1099,
+      "popularity": 5,
+      "stock": 25,
+      "storage": [
+        {
+          "name": "256GB SSD",
+          "price_diff": 0
+        },
+        {
+          "name": "512GB SSD",
+          "price_diff": 200
+        }
+      ],
+      "colors": [
+        "Midnight",
+        "Starlight",
+        "Space Gray",
+        "Silver"
+      ],
+      "description": "Thiết kế hoàn toàn mới, siêu mỏng nhẹ với chip M2."
+    },
+    {
+      "id": "21",
+      "title": "Chuột Gaming Logitech G Pro X Superlight",
+      "image": "logitech-g-pro-superlight.jpg",
+      "category": "phu-kien",
+      "price": 159,
+      "popularity": 5,
+      "stock": 35,
+      "storage": [
+        {
+          "name": "N/A",
+          "price_diff": 0
+        }
+      ],
+      "colors": [
+        "Đen",
+        "Trắng",
+        "Hồng"
+      ],
+      "description": "Chuột gaming siêu nhẹ, không dây, độ chính xác cao."
+    },
+    {
+      "id": "22",
+      "title": "Tai Nghe AirPods Pro (Thế hệ 2)",
+      "image": "airpods-pro-2.jpg",
+      "category": "phu-kien",
+      "price": 249,
+      "popularity": 5,
+      "stock": 50,
+      "storage": [
+        {
+          "name": "N/A",
+          "price_diff": 0
+        }
+      ],
+      "colors": [
+        "Trắng"
+      ],
+      "description": "Khử tiếng ồn chủ động, Âm thanh không gian cá nhân hóa."
+    },
+    {
+      "id": "23",
+      "title": "Máy Tính Bảng Microsoft Surface Pro 9",
+      "image": "surface-pro-9.jpg",
+      "category": "laptop",
+      "price": 999,
+      "popularity": 4,
+      "stock": 14,
+      "storage": [
+        {
+          "name": "256GB SSD",
+          "price_diff": 0
+        },
+        {
+          "name": "512GB SSD",
+          "price_diff": 250
+        },
+        {
+          "name": "1TB SSD",
+          "price_diff": 500
+        }
+      ],
+      "colors": [
+        "Platinum",
+        "Sapphire",
+        "Forest"
+      ],
+      "description": "Sức mạnh laptop và sự linh hoạt của máy tính bảng."
+    },
+    {
+      "id": "24",
+      "title": "Camera An Ninh Ring Stick Up Cam Pro",
+      "image": "ring-cam-pro.jpg",
+      "category": "phu-kien",
+      "price": 179.99,
+      "popularity": 3,
+      "stock": 28,
+      "storage": [
+        {
+          "name": "N/A",
+          "price_diff": 0
+        }
+      ],
+      "colors": [
+        "Trắng",
+        "Đen"
+      ],
+      "description": "Camera an ninh không dây, chống nước, phát hiện chuyển động 3D."
+    },
+    {
+      "id": "25",
+      "title": "Samsung Galaxy Z Fold 5",
+      "image": "galaxy-z-fold-5.jpg",
+      "category": "dien-thoai",
+      "price": 1799,
+      "popularity": 4,
+      "stock": 10,
+      "storage": [
+        {
+          "name": "256GB",
+          "price_diff": 0
+        },
+        {
+          "name": "512GB",
+          "price_diff": 120
+        },
+        {
+          "name": "1TB",
+          "price_diff": 350
+        }
+      ],
+      "colors": [
+        "Icy Blue",
+        "Phantom Black",
+        "Cream"
+      ],
+      "description": "Điện thoại gập màn hình lớn, đa nhiệm mạnh mẽ."
+    },
+    {
+      "id": "26",
+      "title": "HP Spectre x360 14",
+      "image": "hp-spectre-x360.jpg",
+      "category": "laptop",
+      "price": 1499,
+      "popularity": 4,
+      "stock": 11,
+      "storage": [
+        {
+          "name": "512GB SSD",
+          "price_diff": 0
+        },
+        {
+          "name": "1TB SSD",
+          "price_diff": 300
+        }
+      ],
+      "colors": [
+        "Nightfall Black",
+        "Natural Silver"
+      ],
+      "description": "Laptop 2-trong-1 cao cấp, màn hình OLED 3K."
+    },
+    {
+      "id": "27",
+      "title": "Loa Marshall Emberton II",
+      "image": "marshall-emberton-ii.jpg",
+      "category": "phu-kien",
+      "price": 169.99,
+      "popularity": 4,
+      "stock": 45,
+      "storage": [
+        {
+          "name": "N/A",
+          "price_diff": 0
+        }
+      ],
+      "colors": [
+        "Đen",
+        "Vàng Kem"
+      ],
+      "description": "Loa di động chống nước, âm thanh đặc trưng của Marshall."
+    },
+    {
+      "id": "28",
+      "title": "Đồng Hồ Garmin Fenix 7 Pro",
+      "image": "garmin-fenix-7.jpg",
+      "category": "phu-kien",
+      "price": 799,
+      "popularity": 3,
+      "stock": 16,
+      "storage": [
+        {
+          "name": "42mm",
+          "price_diff": 0
+        },
+        {
+          "name": "47mm",
+          "price_diff": 50
+        },
+        {
+          "name": "51mm",
+          "price_diff": 100
+        }
+      ],
+      "colors": [
+        "Carbon Gray",
+        "Silver"
+      ],
+      "description": "Đồng hồ thông minh GPS chuyên nghiệp cho thể thao ngoài trời."
+    },
+    {
+      "id": "29",
+      "title": "Điện Thoại OPPO Find X6 Pro",
+      "image": "oppo-find-x6-pro.jpg",
+      "category": "dien-thoai",
+      "price": 949,
+      "popularity": 4,
+      "stock": 19,
+      "storage": [
+        {
+          "name": "256GB",
+          "price_diff": 0
+        },
+        {
+          "name": "512GB",
+          "price_diff": 100
+        }
+      ],
+      "colors": [
+        "Xanh Rừng",
+        "Nâu Da",
+        "Đen"
+      ],
+      "description": "Hệ thống camera Hasselblad tiên tiến."
+    },
+    {
+      "id": "30",
+      "title": "Tai Nghe Bose QuietComfort Ultra",
+      "image": "bose-qc-ultra.jpg",
+      "category": "phu-kien",
+      "price": 429,
+      "popularity": 4,
+      "stock": 32,
+      "storage": [
+        {
+          "name": "N/A",
+          "price_diff": 0
+        }
+      ],
+      "colors": [
+        "Đen",
+        "Trắng"
+      ],
+      "description": "Khử tiếng ồn hàng đầu và âm thanh đắm chìm."
+    },
+    {
+      "id": "31",
+      "title": "Laptop Lenovo ThinkPad X1 Carbon Gen 11",
+      "image": "lenovo-x1-carbon.jpg",
+      "category": "laptop",
+      "price": 1599,
+      "popularity": 4,
+      "stock": 13,
+      "storage": [
+        {
+          "name": "512GB SSD",
+          "price_diff": 0
+        },
+        {
+          "name": "1TB SSD",
+          "price_diff": 400
+        }
+      ],
+      "colors": [
+        "Deep Black"
+      ],
+      "description": "Siêu mỏng, siêu nhẹ, bền bỉ theo tiêu chuẩn quân đội."
+    },
+    {
+      "id": "32",
+      "title": "Máy Ảnh Sony Alpha a7 IV",
+      "image": "sony-a7-iv.jpg",
+      "category": "phu-kien",
+      "price": 2499,
+      "popularity": 5,
+      "stock": 7,
+      "storage": [
+        {
+          "name": "Body Only",
+          "price_diff": 0
+        }
+      ],
+      "colors": [
+        "Đen"
+      ],
+      "description": "Máy ảnh mirrorless Full-frame đa năng, 33MP."
+    },
+    {
+      "id": "33",
+      "title": "Máy Tính Bảng iPad Pro M2 12.9 inch",
+      "image": "ipad-pro-m2.jpg",
+      "category": "phu-kien",
+      "price": 1099,
+      "popularity": 4,
+      "stock": 18,
+      "storage": [
+        {
+          "name": "128GB",
+          "price_diff": 0
+        },
+        {
+          "name": "256GB",
+          "price_diff": 100
+        },
+        {
+          "name": "512GB",
+          "price_diff": 300
+        },
+        {
+          "name": "1TB",
+          "price_diff": 700
+        }
+      ],
+      "colors": [
+        "Bạc",
+        "Xám Không Gian"
+      ],
+      "description": "Màn hình Liquid Retina XDR và hiệu năng M2 cực mạnh."
+    },
+    {
+      "id": "34",
+      "title": "Điện Thoại ASUS ROG Phone 7 Ultimate",
+      "image": "rog-phone-7.jpg",
+      "category": "dien-thoai",
+      "price": 1199,
+      "popularity": 5,
+      "stock": 9,
+      "storage": [
+        {
+          "name": "512GB",
+          "price_diff": 0
+        }
+      ],
+      "colors": [
+        "Storm White"
+      ],
+      "description": "Điện thoại chuyên game với hiệu năng đỉnh cao và tản nhiệt mạnh mẽ."
+    },
+    {
+      "id": "35",
+      "title": "Bàn Phím Logitech MX Keys S",
+      "image": "logitech-mx-keys-s.jpg",
+      "category": "phu-kien",
+      "price": 109.99,
+      "popularity": 4,
+      "stock": 38,
+      "storage": [
+        {
+          "name": "N/A",
+          "price_diff": 0
+        }
+      ],
+      "colors": [
+        "Pale Gray",
+        "Graphite"
+      ],
+      "description": "Bàn phím không dây cao cấp cho lập trình viên và người sáng tạo nội dung."
+    },
+    {
+      "id": "36",
+      "title": "Laptop Gaming Acer Predator Helios 16",
+      "image": "acer-helios-16.jpg",
+      "category": "laptop",
+      "price": 1999,
+      "popularity": 4,
+      "stock": 6,
+      "storage": [
+        {
+          "name": "1TB SSD",
+          "price_diff": 0
+        },
+        {
+          "name": "2TB SSD",
+          "price_diff": 500
+        }
+      ],
+      "colors": [
+        "Obsidian Black"
+      ],
+      "description": "Màn hình tần số quét cao, cấu hình mạnh mẽ cho game thủ."
+    },
+    {
+      "id": "37",
+      "title": "Loa Bluetooth Sonos Roam SL",
+      "image": "sonos-roam-sl.jpg",
+      "category": "phu-kien",
+      "price": 159,
+      "popularity": 3,
+      "stock": 33,
+      "storage": [
+        {
+          "name": "N/A",
+          "price_diff": 0
+        }
+      ],
+      "colors": [
+        "Shadow Black",
+        "Lunar White"
+      ],
+      "description": "Loa di động thông minh, âm thanh chất lượng cao, tích hợp Wi-Fi và Bluetooth."
+    },
+    {
+      "id": "38",
+      "title": "Đế Sạc Không Dây Belkin BoostCharge Pro 3-in-1",
+      "image": "belkin-boostcharge.jpg",
+      "category": "phu-kien",
+      "price": 149.99,
+      "popularity": 3,
+      "stock": 48,
+      "storage": [
+        {
+          "name": "N/A",
+          "price_diff": 0
+        }
+      ],
+      "colors": [
+        "Đen",
+        "Trắng"
+      ],
+      "description": "Sạc nhanh đồng thời iPhone, Apple Watch và AirPods."
+    }
+  ],
+  "users": [
+    {
+      "email": "kuzma@gmail.com",
+      "password": "123",
+      "id": "1",
+      "role": "user"
+    },
+    {
+      "email": "user@test.com",
+      "password": "456",
+      "id": "2",
+      "role": "user"
+    },
+    {
+      "email": "admin@gmail.com",
+      "password": "admin123",
+      "id": "3",
+      "role": "admin"
+    },
+    {
+      "id": "827d",
+      "name": "Phúc",
+      "lastname": "Lùn",
+      "email": "phuclun@gmail.com",
+      "password": "123",
+      "role": "user"
+    }
+  ],
+  "orders": [
+    {
+      "id": "1",
+      "user": {
+        "id": 1
+      },
+      "orderDate": "2024-11-14T12:00:00.000Z",
+      "subtotal": 2049.97,
+      "orderStatus": "Shipped",
+      "customerInfo": {
+        "emailAddress": "kuzma@gmail.com",
+        "firstName": "Nguyễn",
+        "lastName": "Văn A",
+        "address": "123 Đường Công Nghệ",
+        "city": "Hà Nội",
+        "country": "Việt Nam",
+        "region": "Miền Bắc",
+        "postalCode": "100000",
+        "phone": "0987654321",
+        "paymentType": "credit-card",
+        "cardNumber": "xxxx-xxxx-xxxx-1234",
+        "nameOnCard": "NGUYEN VAN A",
+        "expirationDate": "12/26",
+        "cvc": "123"
+      },
+      "products": [
+        {
+          "id": "1",
+          "image": "iphone-15-pro-max.jpg",
+          "title": "iPhone 15 Pro Max 256GB",
+          "category": "dien-thoai",
+          "price": 1299.99,
+          "quantity": 1,
+          "storage": "256GB",
+          "color": "Titan Tự Nhiên",
+          "popularity": 5,
+          "stock": 10
+        },
+        {
+          "id": "3",
+          "image": "sony-wh-1000xm5.jpg",
+          "title": "Tai Nghe Sony WH-1000XM5",
+          "category": "phu-kien",
+          "price": 349.99,
+          "quantity": 2,
+          "storage": "N/A",
+          "color": "Đen",
+          "popularity": 3,
+          "stock": 35
+        }
+      ]
+    },
+    {
+      "id": "0781",
+      "data": {
+        "emailAddress": "duytrung@gmail.com",
+        "firstName": "Trung",
+        "lastName": "Gay",
+        "address": "mexico",
+        "country": "Hưng Yên ",
+        "city": "Hà Nội ",
+        "region": "tamgiacvang",
+        "postalCode": "246",
+        "phone": "0942453524",
+        "paymentType": "credit-card",
+        "nameOnCard": "nguyen duy trung",
+        "cardNumber": "1424214214214",
+        "expirationDate": "23/42",
+        "cvc": "124"
+      },
+      "products": [
+        {
+          "id": "1",
+          "title": "iPhone 15 Pro Max 256GB",
+          "image": "iphone-15-pro-max.jpg",
+          "category": "dien-thoai",
+          "price": 1299.99,
+          "popularity": 5,
+          "stock": 10,
+          "storage": "256GB",
+          "colors": [
+            "Titan Tự Nhiên",
+            "Titan Đen",
+            "Titan Trắng"
+          ],
+          "description": "Chip A17 Bionic mạnh mẽ, hệ thống camera Pro Max, và khung Titan bền bỉ.",
+          "quantity": 1,
+          "color": "Titan Tự Nhiên"
+        }
+      ],
+      "subtotal": 1299.99,
+      "user": {
+        "email": "kuzma@gmail.com",
+        "id": "1"
+      },
+      "orderStatus": "Processing",
+      "orderDate": "2025-11-14T19:52:30.460Z"
+    },
+    {
+      "id": "26f2",
+      "data": {
+        "emailAddress": "duytrung@gmail.com",
+        "firstName": "Lâm",
+        "lastName": "Đinh",
+        "phone": "0942453429",
+        "country": "Việt Nam",
+        "address": "a",
+        "city": "Hà Nội",
+        "region": "tamgiacvang",
+        "postalCode": "A",
+        "apartment": "123",
+        "paymentType": "paypal",
+        "nameOnCard": "nguyen duy trung",
+        "cardNumber": "213124121251",
+        "expirationDate": "21/23",
+        "cvc": "123124"
+      },
+      "products": [
+        {
+          "id": "2",
+          "title": "MacBook Pro M3 14 inch",
+          "image": "macbook-pro-m3.jpg",
+          "category": "laptop",
+          "price": 1999,
+          "popularity": 4,
+          "stock": 20,
+          "storage": "512GB SSD",
+          "colors": [
+            "Bạc",
+            "Xám Không Gian"
+          ],
+          "description": "Màn hình Liquid Retina XDR tuyệt đẹp, hiệu năng vượt trội với chip M3 Pro.",
+          "quantity": 1,
+          "color": "Bạc"
+        }
+      ],
+      "subtotal": 1999,
+      "user": {
+        "email": "admin@gmail.com",
+        "id": "6652"
+      },
+      "orderStatus": "Processing",
+      "orderDate": "2025-11-15T06:03:10.011Z"
+    },
+    {
+      "id": "5204",
+      "data": {
+        "emailAddress": "duytrung@gmail.com",
+        "firstName": "Lâm",
+        "lastName": "Đinh",
+        "phone": "0942453429",
+        "country": "Việt Nam",
+        "address": "a",
+        "city": "Hà Nội",
+        "region": "tamgiacvang",
+        "postalCode": "A",
+        "apartment": "123",
+        "paymentType": "credit-card",
+        "nameOnCard": "nguyen duy trung",
+        "cardNumber": "1231241241241",
+        "expirationDate": "12/42",
+        "cvc": "24"
+      },
+      "products": [
+        {
+          "id": "2",
+          "title": "MacBook Pro M3 14 inch",
+          "image": "macbook-pro-m3.jpg",
+          "category": "laptop",
+          "price": 2199,
+          "popularity": 4,
+          "stock": 20,
+          "storage": "1TB SSD",
+          "colors": [
+            "Bạc",
+            "Xám Không Gian"
+          ],
+          "description": "Màn hình Liquid Retina XDR tuyệt đẹp, hiệu năng vượt trội với chip M3 Pro.",
+          "quantity": 1,
+          "color": "Xám Không Gian"
+        }
+      ],
+      "subtotal": 2199,
+      "user": {
+        "email": "kuzma@gmail.com",
+        "id": "1"
+      },
+      "orderStatus": "Processing",
+      "orderDate": "2025-11-15T08:41:30.667Z"
+    }
+  ]
+}
